@@ -88,7 +88,6 @@ Para determinar la categoría de un sistema (Básica, Media o Alta), el ENS eval
    5. Trazabilidad [T]: Garantiza que se pueda conocer en cualquier momento quién ha accedido a qué información y qué acciones ha realizado (deja un "rastro" o historial).
 
 Nota para tu estudio/documento: La categoría final del sistema será la del nivel más alto alcanzado en cualquiera de estas dimensiones. Por ejemplo, si un sistema es de nivel Bajo en Confidencialidad pero Medio en Disponibilidad, el sistema completo se clasifica como Categoría Media.
-¿Quieres que pasemos a otro tema del temario o necesitas un resumen de los roles responsables en el ENS (Responsable de Información, del Servicio, de Seguridad, etc.)?
 
 [1] [https://www.audidat.com](https://www.audidat.com/blog/esquema-nacional-de-seguridad/auditoria-esquema-nacional-de-seguridad/#:~:text=Para%20entender%20la%20auditor%C3%ADa%2C%20primero%20hay%20que,de%20las%20Administraciones%20P%C3%BAblicas%20y%20sus%20proveedores.)
 [2] [https://blog.grupocfi.es](https://blog.grupocfi.es/es/formacion-requerida-ens-iso27001#:~:text=El%20Real%20Decreto%20311/2022%2C%20de%203%20de,las%20funciones%20y%20responsabilidades%20de%20cada%20rol.)
