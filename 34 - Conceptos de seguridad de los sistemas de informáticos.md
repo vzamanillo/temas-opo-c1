@@ -5,16 +5,16 @@ La seguridad informática busca proteger el triángulo de la seguridad (Confiden
 ## 1. SEGURIDAD FÍSICA VS. SEGURIDAD LÓGICA
 
 * Seguridad Física: Conjunto de medidas destinadas a proteger el hardware y el entorno del sistema frente a amenazas tangibles.
-* Ejemplos: Vigilantes, cámaras (CCTV), control de acceso biométrico, sistemas contra incendios, climatización y SAIs.
+  * Ejemplos: Vigilantes, cámaras (CCTV), control de acceso biométrico, sistemas contra incendios, climatización y SAIs.
 * Seguridad Lógica: Aplicación de barreras y procedimientos que resguardan el acceso a los datos y programas dentro del sistema.
-* Ejemplos: Contraseñas, cifrado, firewalls, antivirus, permisos de usuario y firmas digitales.
+  * Ejemplos: Contraseñas, cifrado, firewalls, antivirus, permisos de usuario y firmas digitales.
 
 ## 2. AMENAZAS Y VULNERABILIDADES
 
 Es crucial no confundir estos dos términos:
 
 * Vulnerabilidad: Es una debilidad o fallo en un sistema (un "agujero") que puede ser aprovechado.
-* Ejemplo: Un sistema operativo sin actualizar o una puerta de un CPD sin cerradura.
+  * Ejemplo: Un sistema operativo sin actualizar o una puerta de un CPD sin cerradura.
 * Amenaza: Es un evento o acción externa que puede causar un daño aprovechando una vulnerabilidad.
   * Tipos:
     * Humanas: Intencionadas (hackers, sabotaje) o accidentales (errores de empleados).
