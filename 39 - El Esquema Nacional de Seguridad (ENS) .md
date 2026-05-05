@@ -1,4 +1,6 @@
-# El Esquema Nacional de Seguridad (ENS), regulado por el Real Decreto 311/2022, establece la política de seguridad para la protección de la información en el sector público español y sus proveedores tecnológicos. [1, 2, 3]
+# El Esquema Nacional de Seguridad (ENS)
+
+Regulado por el Real Decreto 311/2022, establece la política de seguridad para la protección de la información en el sector público español y sus proveedores tecnológicos. [1, 2, 3]
 
 ## EL ESQUEMA NACIONAL DE SEGURIDAD (ENS)
 

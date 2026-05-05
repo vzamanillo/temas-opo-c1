@@ -1,4 +1,6 @@
-# El Esquema Nacional de Interoperabilidad (ENI) es el conjunto de principios y directrices que permiten a las Administraciones Públicas españolas compartir datos, documentos y servicios de forma segura y eficiente. Regula cómo deben interactuar los sistemas para que los ciudadanos no tengan que aportar documentos que la Administración ya posee
+# El Esquema Nacional de Interoperabilidad (ENI)
+
+Es el conjunto de principios y directrices que permiten a las Administraciones Públicas españolas compartir datos, documentos y servicios de forma segura y eficiente. Regula cómo deben interactuar los sistemas para que los ciudadanos no tengan que aportar documentos que la Administración ya posee
 
 ## 1. Objetivos del ENI
 

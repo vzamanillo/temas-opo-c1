@@ -1,6 +1,6 @@
-# Este es el último bloque de contenido para tu documento, enfocado en la continuidad del negocio y la protección preventiva. Estos planes son el núcleo operativo de lo que exige el ENS
+# PLANIFICACIÓN DE LA SEGURIDAD Y CONTINUIDAD
 
-## PLANIFICACIÓN DE LA SEGURIDAD Y CONTINUIDAD
+Enfocado en la continuidad del negocio y la protección preventiva. Estos planes son el núcleo operativo de lo que exige el ENS
 
 ## 1. PLAN DE SEGURIDAD INFORMÁTICA
 
