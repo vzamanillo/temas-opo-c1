@@ -1,45 +1,49 @@
-## SOFTWARE Y PROTECCIÓN JURÍDICA
+# SOFTWARE Y PROTECCIÓN JURÍDICA
 
 ## 1. SOFTWARE LIBRE VS. SOFTWARE PROPIETARIO
 
 ## Software Libre (Free Software)
+
 Se define por la libertad de los usuarios para ejecutar, copiar, distribuir, estudiar y modificar el software. Se basa en cuatro libertades fundamentales:
-0. Ejecutar el programa con cualquier propósito. [1, 2, 3, 4] 
+0. Ejecutar el programa con cualquier propósito. [1, 2, 3, 4]
 
    1. Estudiar cómo funciona y adaptarlo (acceso al código fuente).
    2. Distribuir copias.
-   3. Mejorar el programa y publicar las mejoras. [5, 6, 7] 
+   3. Mejorar el programa y publicar las mejoras. [5, 6, 7]
 
 ## Software Propietario
-Aquel en el que el dueño (desarrollador o empresa) limita las posibilidades de uso, modificación o redistribución. El código fuente no es accesible y su uso suele estar sujeto al pago de una licencia. [8, 9, 10, 11, 12] 
+
+Aquel en el que el dueño (desarrollador o empresa) limita las posibilidades de uso, modificación o redistribución. El código fuente no es accesible y su uso suele estar sujeto al pago de una licencia. [8, 9, 10, 11, 12]
 
 ## 2. TIPOS DE LICENCIAS
 
 * Licencias de Software Libre:
-* GPL (General Public License): Obliga a que las versiones derivadas sigan siendo libres (Copyleft).
-   * BSD / MIT: Permisivas; permiten que el código se use en software propietario siempre que se dé crédito al autor.
+  * GPL (General Public License): Obliga a que las versiones derivadas sigan siendo libres (Copyleft).
+  * BSD / MIT: Permisivas; permiten que el código se use en software propietario siempre que se dé crédito al autor.
 * Licencias de Software Propietario:
-* EULA (End User License Agreement): Contrato donde el usuario acepta las restricciones de uso impuestas por el fabricante.
+  * EULA (End User License Agreement): Contrato donde el usuario acepta las restricciones de uso impuestas por el fabricante.
 * Modelos de distribución comunes:
-* Shareware: Prueba gratuita por tiempo limitado.
-   * Freeware: Gratuito pero no necesariamente libre (no da el código fuente).
-   * Adware: Gratuito a cambio de mostrar publicidad. [13, 14, 15, 16, 17] 
+  * Shareware: Prueba gratuita por tiempo limitado.
+  * Freeware: Gratuito pero no necesariamente libre (no da el código fuente).
+  * Adware: Gratuito a cambio de mostrar publicidad. [13, 14, 15, 16, 17]
 
 ## 3. PROTECCIÓN JURÍDICA DE LOS PROGRAMAS DE ORDENADOR
-En España, el software se protege mediante la Ley de Propiedad Intelectual (LPI), tratándolo como una obra literaria. [18, 19] 
+
+En España, el software se protege mediante la Ley de Propiedad Intelectual (LPI), tratándolo como una obra literaria. [18, 19]
 
 * Objeto de protección: El código fuente, el código objeto y la documentación preparatoria. No se protegen las ideas o algoritmos, solo su expresión escrita.
 * Derechos de Explotación: El autor tiene derechos exclusivos de reproducción, distribución, comunicación pública y transformación durante toda su vida y 70 años después de su muerte (en empresas, 70 años desde la divulgación).
-* Copia de seguridad: El usuario legítimo tiene derecho por ley a realizar una copia de seguridad sin permiso del autor. [20, 21, 22, 23, 24] 
+* Copia de seguridad: El usuario legítimo tiene derecho por ley a realizar una copia de seguridad sin permiso del autor. [20, 21, 22, 23, 24]
 
 ## 4. PROTECCIÓN DE DERECHOS DIGITALES
-Regulada principalmente en el Título X de la LOPDGDD 3/2018 (Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales). Los puntos clave son: [25] 
+
+Regulada principalmente en el Título X de la LOPDGDD 3/2018 (Ley Orgánica de Protección de Datos y Garantía de los Derechos Digitales). Los puntos clave son: [25]
 
 * Derecho a la desconexión digital: Derecho de los trabajadores a no responder comunicaciones de trabajo fuera de su horario laboral.
 * Derecho al olvido: Posibilidad de solicitar que desaparezcan vínculos de datos personales en buscadores (Google) si son obsoletos o irrelevantes.
 * Derecho a la portabilidad: Derecho a recibir tus datos personales en un formato estructurado y de lectura mecánica para trasladarlos a otro servicio.
 * Testamento digital: Regula el acceso y gestión de los contenidos digitales de personas fallecidas por parte de sus herederos.
-* Protección de menores: Obliga a centros educativos y padres a garantizar un uso seguro y equilibrado de internet. [26, 27] 
+* Protección de menores: Obliga a centros educativos y padres a garantizar un uso seguro y equilibrado de internet. [26, 27]
 
 [1] [https://www.scielo.org.co](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0121-86972008000200007#:~:text=CONCLUSIONES%20Software%20libre%20se%20refiere%20a%20la,FSF%20%28%20Free%20Software%20Foundation%20%29%20.)
 [2] [https://ccuraba.org.co](https://ccuraba.org.co/site/wp-content/uploads/2019/01/Estudio-Econ%C3%B3mico.pdf#:~:text=Estos%20tres%20mecanismos%20pueden%20enmarcarse%20bajo%20estos,libertades%20a%20quienes%20lo%20utilizan%20y%20desarrollan.)

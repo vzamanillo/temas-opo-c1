@@ -1,5 +1,7 @@
-El Esquema Nacional de Interoperabilidad (ENI) es el conjunto de principios y directrices que permiten a las Administraciones Públicas españolas compartir datos, documentos y servicios de forma segura y eficiente. Regula cómo deben interactuar los sistemas para que los ciudadanos no tengan que aportar documentos que la Administración ya posee.
+# El Esquema Nacional de Interoperabilidad (ENI) es el conjunto de principios y directrices que permiten a las Administraciones Públicas españolas compartir datos, documentos y servicios de forma segura y eficiente. Regula cómo deben interactuar los sistemas para que los ciudadanos no tengan que aportar documentos que la Administración ya posee
+
 ## 1. Objetivos del ENI
+
 El ENI busca crear las condiciones necesarias para garantizar la interoperabilidad técnica, semántica y organizativa. Sus metas principales son:
 
 * Facilitar el ejercicio de derechos: Permitir a ciudadanos y empresas interactuar con cualquier administración por medios electrónicos.
@@ -8,15 +10,17 @@ El ENI busca crear las condiciones necesarias para garantizar la interoperabilid
 * Seguridad y conservación: Establecer criterios comunes para la recuperación y preservación de la información electrónica a largo plazo.
 
 ## 2. Estructura y Contenido
+
 El ENI se materializa en el Real Decreto 4/2010 y se organiza en torno a dimensiones clave:
 
 * Dimensiones de la Interoperabilidad:
-* Organizativa: Define procesos de negocio y objetivos comunes.
-   * Semántica: Garantiza que el significado de la información sea comprendido por cualquier sistema.
-   * Técnica: Asegura la conexión física y lógica entre sistemas y servicios.
+  * Organizativa: Define procesos de negocio y objetivos comunes.
+  * Semántica: Garantiza que el significado de la información sea comprendido por cualquier sistema.
+  * Técnica: Asegura la conexión física y lógica entre sistemas y servicios.
 * Elementos principales: Incluye los principios básicos, el uso de la Red de comunicaciones de las Administraciones Públicas (Red SARA), la reutilización de software y la interoperabilidad de la firma electrónica.
 
 ## 3. Normas Técnicas de Interoperabilidad (NTI)
+
 Las NTI desarrollan aspectos específicos del ENI para asegurar su implementación práctica. Son de obligado cumplimiento y cubren áreas críticas como:
 
    1. Documento Electrónico: Define componentes, firma y metadatos mínimos.
