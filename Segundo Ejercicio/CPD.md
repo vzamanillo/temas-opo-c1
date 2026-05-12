@@ -1,5 +1,45 @@
 # CPD
 
+Claro, aquí tienes el esquema detallado de la infraestructura de un Centro de Procesamiento de Datos (CPD), desglosado por sus áreas críticas de funcionamiento y protección:
+
+## 1. Sistema de Ventilación y Climatización (HVAC)
+
+El objetivo es mantener una temperatura constante (entre 18°C y 24°C) y controlar la humedad.
+
+* Configuración de Pasillos: Se organizan los racks en "Pasillos Fríos" (donde las máquinas absorben aire) y "Pasillos Calientes" (donde expulsan el calor) para evitar que el aire se mezcle.
+* Suelo Técnico: Elevación del piso (unos 30-60 cm) para canalizar el aire frío y ocultar el cableado de datos.
+* Unidades CRAC: Equipos de aire acondicionado de precisión que funcionan 24/7 y controlan la pureza del aire.
+
+## 2. Medidas de Seguridad Física y Control
+
+Protección perimetral y del propio espacio físico del CPD.
+
+* Control de Acceso: Doble factor de autenticación (tarjeta magnética + biometría) y puertas de seguridad tipo exclusa (no se abre una hasta que la anterior esté cerrada).
+* CCTV: Circuito cerrado de televisión con grabación continua y sensores de movimiento en cada pasillo.
+* Jaulas de Seguridad: Cerramientos físicos dentro de la sala para separar servidores de distintos clientes o departamentos.
+
+## 3. Sistema de Seguridad contra Incendios
+
+No se usa agua, ya que destruiría los componentes electrónicos.
+
+* Detección Precoz (VESDA): Sistemas que aspiran aire constantemente para detectar partículas invisibles de combustión antes de que haya llama.
+* Extinción por Gas Inerte: Inundación de la sala con gases (como Novec 1230 o Inergen) que extinguen el fuego reduciendo el oxígeno o por enfriamiento, sin dejar residuos ni dañar los equipos.
+
+## 4. Infraestructura Eléctrica y Redundancia
+
+Garantiza que el CPD nunca se apague.
+
+* SAI / UPS: Baterías que filtran la corriente y dan autonomía inmediata si falla la red eléctrica principal.
+* Grupos Electrógenos: Motores diésel externos que arrancan automáticamente en cortes de larga duración.
+* Puesta a Tierra: Red de cobre para descargar cualquier sobretensión y proteger el hardware.
+
+## 5. Gestión y Monitorización (DCIM)
+
+* Sensores de Inundación: Colocados en el suelo técnico para detectar fugas de agua de los aires acondicionados.
+* Software de Gestión: Panel central que vigila en tiempo real el consumo eléctrico, la temperatura de cada rack y el estado de las comunicaciones.
+
+¿Te interesa que detallemos alguna normativa específica, como los niveles Tier III o IV, que definen cuánta redundancia debe tener cada uno de estos puntos?
+
 Para montar un Centro de Procesamiento de Datos (CPD) sincronizado con un sitio secundario mediante una red SAN, lo fundamental es garantizar latencia mínima y redundancia total. En una configuración de replicación síncrona, cada escritura en el CPD principal debe confirmarse en el secundario antes de dar la operación por finalizada.
 
 ## 1. Infraestructura de Red y Conectividad
